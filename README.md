@@ -1,4 +1,4 @@
-# Tập hợp khoá học tiếng việt
+# Tập hợp khoá học
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-46-55-icons8_android_os_64px.png" title="" alt="icons8_android_os_64px.png" width="50"> Android
 
